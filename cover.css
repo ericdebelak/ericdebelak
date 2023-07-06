@@ -90,8 +90,23 @@ body {
   text-align: center;
 }
 
+.mastfoot .inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mastfoot .lead {
+  margin-bottom: 0;
+}
+
+.mastfoot .btn {
+  display: flex;
+  align-items: center;
+}
+
 .logo-image {
-  padding: 5px;
+  margin: 5px;
 }
 
 .masthead-brand {
